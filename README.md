@@ -1,4 +1,4 @@
-# Projeto de Score de Crédito - EBAC - Ciência de Dados
+# Projeto de Score de Crédito
 
 ## 📊 Visão Geral
 Projeto de machine learning desenvolvido para criar um modelo de score de crédito para aplicações de cartão de crédito. O modelo prevê o risco de crédito utilizando dados dos clientes e histórico de transações.
@@ -16,7 +16,9 @@ Projeto de machine learning desenvolvido para criar um modelo de score de crédi
     https://github.com/user-attachments/assets/6a41cf23-eeda-400a-b8f3-c82ef789bc1b
 
 
+## 💻 Notebook
 
+[Projeto de Score de Crédito](https://github.com/alexassuncaodados/Project_CreditScore)
 
 
 
