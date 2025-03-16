@@ -18,7 +18,7 @@ Projeto de machine learning desenvolvido para criar um modelo de score de crédi
 
 ## 💻 Notebook
 
-[Projeto de Score de Crédito](https://github.com/alexassuncaodados/Project_CreditScore)
+[Projeto de Score de Crédito](https://github.com/alexassuncaodados/Project_CreditScore/blob/main/Mod38Projeto.ipynb)
 
 
 
